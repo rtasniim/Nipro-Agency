@@ -1,0 +1,371 @@
+.h_logo .h_h1 {
+    margin-top: 27px;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+}
+/*banner start*/
+.banner{
+    background-image: url('./n1.png');
+    width: 100%;
+    height: 699px;
+    background-repeat: no-repeat;
+    background-size:cover ;
+ }
+ .banner_text {
+  color: white;
+}
+ .b_h1{
+    margin-top: 200px;
+   margin-bottom: 20px;
+   font-size: 40px;
+   font-family: 'Lato', sans-serif;
+   font-weight: 700;
+ }
+ .b_p{ 
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 27px;
+ }
+/*banner end*/
+/* banner button */
+ .b_btn{
+  font-size: 16px;
+ }
+ .c_btn{
+  background-color: none;
+  border: none;
+ }
+ /* Banner end */
+
+/* welcome section start */
+ .wlc{}
+ .w_box{
+ }
+ .w_h1{
+  font-family: 'Lato', sans-serif;
+  margin-top: 30px;
+  text-align: center;
+  color: #333333;
+  font-size: 30px;
+  font-weight: 700;
+ }
+ .w_p{
+  margin-top: 20px;
+  text-align: center;
+  color: #8e8e8e;
+  line-height: 25px;
+ }
+ /* welcome section end */
+ /* feature start */
+ 
+ /* feature end */
+ /* About start */
+ .About {
+  padding: 100px 0px 100px 0px;
+}
+.A_img{}
+ .About_text {
+  padding-left: 0px !important;
+  margin-top: 0px !important;
+}
+ .A_h2{
+  color: #333333;
+  margin-bottom: 10px;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+ }
+.A_p{
+  color: #8e8e8e;
+  padding: 0px 0px !important;
+  font-size: 18px;
+  line-height: 27px;
+}
+ /* About end */
+ /* Recent Work start */
+ .Recent_Work_main{
+  padding-bottom: 100px;
+  background-color: #e8e0e085;
+ } 
+ .Rw_h1{
+  padding: 70px 0;
+  color: #333333;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+ }
+  .RW ul li .Rw_border{
+  color: #000000;
+ } 
+ .Rw_border{
+  color: #000000;
+  
+ }
+ .RW ul li a{
+   color: #8e8e8e;
+ }
+ .RW ul li a:hover{
+  transition: .33s;
+  color: #000000;
+  border:2px solid black ;
+ }
+ .Rw_box{
+  
+  padding: 0px 100px 0px 100px;
+ }
+ .Recent_Work{
+  width: 100%;
+ }
+ /* Recent Work end */
+ /* Why Choose start */
+ .wc_section{
+  padding: 40px 0px;
+}
+.wc_text{
+  margin-bottom: 30px;
+}
+.wc_h1{
+  padding-bottom: 30px;
+  color: #333333;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+.wc_h2{
+  color: #8e8e8e;
+  font-family: 'Lato', sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+}
+.wc_h2:hover{
+  color: #000000;
+  transition: .33s;
+}
+.wc_p2{
+  color: #8e8e8e;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+}
+ /* Why Choose end */
+ /* Who Work With US start */
+ .who-work_banner{
+  width: 100%;
+  height: 640px;
+  background-image: url(./Who-work-with-us.png);
+ }
+ .c_box{
+  text-align: center;
+ }
+ .Wu_text{
+  padding: 70px 0px;
+ }
+ .wu_h1{
+  color: #333333;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+ }
+ .card-title{
+  font-size: 18px;
+ }
+ /* Who Work With US end */
+ /* Best Pricing start */
+ .Best_Pricing{
+  padding-bottom: 50px;
+ }
+ .bp_h1{
+  padding: 30px 0px;
+  text-align: center;
+  color: #333333;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+ }
+ .bp_box{
+  border-radius: 10px;
+  padding: 45px;
+  border: 2px solid;
+ }
+ .bp_box:hover{
+  background-color: antiquewhite;
+  transition: .33s;
+ }
+ .bp_h2{
+  border-bottom: 2px solid;
+  padding-bottom: 20px;
+  text-align: center;
+  color: #333333;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+
+ }
+ .bp_h3{
+  padding-top: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+ }
+ .bp_span{
+  color: #8e8e8e;
+  font-size: 16px;
+ }
+ .bp_ul{
+  padding-left: 0px;
+ }
+ .bp_ul li{
+  line-height: 45px;
+  color: #8e8e8e;
+  list-style: none;
+ }
+ .Sign{
+  color: #8e8e8e;
+  font-size: 16px;
+ }
+ .Sign:hover{
+  transition: .33s;
+  color: #000000;
+ }
+ /* Best Pricing end */
+ /* Responsive start */
+ .Responsive{
+  padding: 25px 0px;
+  background-color:  antiquewhite;
+ }
+ .R_text{
+   float: left;
+ }
+ .R_h2{
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+ }
+ .R_button{
+   float: right;
+ }
+ /* Responsive end */
+  /* About start */
+   .About{
+   }
+   .A_c{
+    padding: 40px;
+   }
+   
+   .About_text {
+    padding-left: 55px;
+    margin-top: 100px;
+  }
+   .A_h5{
+    margin-bottom: 20px;
+    font-size: 33px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+   }
+   .A_h3{
+    color: #8e8e8e;
+    margin-bottom: 20px;
+    font-size: 22px;
+    font-weight: 300;
+    font-family: 'Lato', sans-serif;
+   }
+   .A_h4{
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+   }
+  .A_p{
+    padding: 10px 90px;
+    font-size: 18px;
+    line-height: 27px;
+  }
+   /* About end */
+   /* contact start */
+   input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+ .bu_btn{
+  background-color: white;
+  border-radius: 6px;
+  padding: 1px 13px;
+  border: 1px solid;
+ } 
+  
+  
+  /* Style the container/contact section */
+  .con_us {
+    border-radius: 5px;
+    padding: 0px 250px;
+
+  }
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+   /* contact end */
+   /* footer start */
+   .footer{
+    background-image: url(./footer_banner.png);
+    width: 100%;
+    height: 453px;
+   }
+   .footer_text{
+    padding: 90px 300px 10px;
+    text-align: center;
+   }
+   .footer_h1{
+    padding-bottom: 15px;
+    color:black;
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+   }
+   .footer_p{
+    color: white;
+    font-size: 18px;
+    line-height: 30px;
+   }
+   .footer_icon{
+    padding-top: 20px;
+    font-size: 25px;
+   }
+   .footer_icon i:hover{
+    background-color: white;
+   }
+   /*  */
+   .footer_mt {
+    margin-top: 90px;
+    }
+   .footer_text_p{
+    color: white;
+   }
+   .footer_nav a{
+    padding: 0 10px;
+    text-decoration: none;
+    color: white;
+   }
+   .footer_nav a:hover{
+    transition: .33s;
+    color: #f7d107;
+   }
+   .icon_hover:hover{
+    transition: .33s;
+    color: #000000 !important;
+   }
+   /*footer end*/
